@@ -1,2 +1,13 @@
 # gen_models_hw2_stargan
-HW2 Generative Models in Machine Learning
+HW1 Generative Models in Machine Learning
+
+Please find main notebook 02_hw_StarGANv1.ipynb with solution
+And second notebook 02_hw_StarGANv2_1v100.ipynb with attempts to build and train starganv2
+
+It was runned with:
+
+- macOS Sonoma 14.6.1
+- Apple M2 Pro
+- Python 3.11.9
+- 'mps' torch backend
+- requirements.txt provided
