@@ -1,5 +1,4 @@
-# gen_models_hw2_stargan
-HW1 Generative Models in Machine Learning
+# HW2 Generative Models in Machine Learning
 
 Please find main notebook 02_hw_StarGANv1.ipynb with solution
 And second notebook 02_hw_StarGANv2_1v100.ipynb with attempts to build and train starganv2
